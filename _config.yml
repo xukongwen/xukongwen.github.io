@@ -4,7 +4,6 @@ description:    "A simple jekyll blog"
 baseurl:        ""
 url:            "https://xukongwen.github.io"
 
-
 # Author
 author:
   name:         KongWen Xu
