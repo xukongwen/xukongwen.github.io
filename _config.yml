@@ -1,0 +1,36 @@
+# Site settings
+title:          Phantom
+description:    "A simple jekyll blog"
+baseurl:        ""
+url:            "https://xukongwen.github.io"
+
+
+# Author
+author:
+  name:         KongWen Xu
+  url:          https://xukongwen.github.io
+  email:        xukongwen@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       10
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
