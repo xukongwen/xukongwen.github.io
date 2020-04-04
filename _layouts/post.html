@@ -4,7 +4,8 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Written by</span>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span>by</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
@@ -16,8 +17,6 @@ layout: default
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
-
-  <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
   {{ content }}
@@ -31,5 +30,5 @@ layout: default
     <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-  <a href="#" class="top">Top</a>
+  <a href="#" class="回到頁首">Top</a>
 </div>
