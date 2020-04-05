@@ -3,7 +3,13 @@
     src: url('../fonts/Songti.ttc');
     font-weight: normal;
     font-style: normal;
+
+    font-family: source-han-serif-tc, serif;
+    font-weight: 700;
+    font-style: normal;
 }
+
+
 
 * {
     -webkit-box-sizing: border-box;
@@ -19,7 +25,7 @@ html, body {
 }
 
 html {
-    font-family: "Songti", "Libre Baskerville", "Times New Roman", Times, serif;
+    font-family: source-han-serif-tc, "Libre Baskerville", "Times New Roman", Times, serif;
     font-size: 14px;
     overflow-y: scroll
 }
