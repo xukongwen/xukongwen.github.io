@@ -134,7 +134,7 @@ pre code {
 
 .post-title {
     color: #353535;
-    font-family: source-han-serif-tc, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: 'Noto Serif TC', "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 4rem;
     margin: 1rem 0;
     text-align: center
@@ -494,7 +494,7 @@ main, footer, .nav-container {
 
 .nav a {
     color: #555;
-    font-family: source-han-serif-tc, "Segoe UI", Helvetica, Arial, sans-serif
+    font-family: 'Noto Serif TC', "Segoe UI", Helvetica, Arial, sans-serif
 }
 
 @media (min-width: 600px) {
@@ -538,7 +538,7 @@ footer span {
     -moz-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     color: #555;
-    font-family: source-han-serif-tc, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: 'Noto Serif TC', "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 1.1rem;
     opacity: .6
 }
@@ -592,7 +592,7 @@ footer span {
 .catalogue-title {
     color: #353535;
     display: block;
-    font-family: source-han-serif-tc, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: 'Noto Serif TC', "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 2rem;
     font-weight: 700;
     margin: .5rem 0
