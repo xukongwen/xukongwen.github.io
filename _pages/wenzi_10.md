@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文子/符言"
+title: "符言"
 permalink: /wenzi_fuyan/
 ---
 

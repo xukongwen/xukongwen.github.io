@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文子/九守"
+title: "九守"
 permalink: /wenzi_jiushou/
 ---
 
