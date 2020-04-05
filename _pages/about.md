@@ -4,7 +4,7 @@ title: “文子”
 permalink: /about/
 ---
 
-## 道德
+
 
 [文子/道德]({% link _pages/wenzi_1.md %})
 
