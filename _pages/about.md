@@ -1,10 +1,10 @@
 ---
 layout: post
-title: “hi”
+title: “文子”
 permalink: /about/
 ---
 
-hi
+文子
 
 [文子/道德]({% link _pages/wenzi_1.md %})
 [文子/道源]({% link _pages/wenzi_2.md %})
