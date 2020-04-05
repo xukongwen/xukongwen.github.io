@@ -4,12 +4,11 @@ title: “文子”
 permalink: /about/
 ---
 
-文子
-
+#道德
 [文子/道德]({% link _pages/wenzi_1.md %})
--
+#道源
 [文子/道源]({% link _pages/wenzi_2.md %})
--
+#自然
 [文子/自然]({% link _pages/wenzi_3.md %})
 -
 [文子/上德]({% link _pages/wenzi_4.md %})
