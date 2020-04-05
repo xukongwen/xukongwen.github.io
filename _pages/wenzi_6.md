@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/微明”
+title: "文子/微明"
 permalink: /wenzi_weiming/
 ---
 

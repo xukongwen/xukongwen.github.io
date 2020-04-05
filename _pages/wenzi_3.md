@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/自然”
+title: "文子/自然"
 permalink: /wenzi_ziran/
 ---
 

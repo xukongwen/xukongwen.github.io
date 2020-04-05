@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/上禮”
+title: "文子/上禮"
 permalink: /wenzi_shangli/
 ---
 

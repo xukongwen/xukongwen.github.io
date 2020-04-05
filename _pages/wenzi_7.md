@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/上仁”
+title: "文子/上仁"
 permalink: /wenzi_shangren/
 ---
 

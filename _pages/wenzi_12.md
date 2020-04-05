@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/精誠”
+title: "文子/精誠"
 permalink: /wenzi_jingcheng/
 ---
 

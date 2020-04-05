@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/道源”
+title: "文子/道源"
 permalink: /wenzi_daouyan/
 ---
 

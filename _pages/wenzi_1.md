@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/道德”
+title: "文子/道德"
 permalink: /wenzi_daode/
 ---
 

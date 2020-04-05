@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “文子/下德”
+title: "文子/下德"
 permalink: /wenzi_xiade/
 ---
 
