@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "文子"
-permalink: /about/
+permalink: /wenzi/
 ---
 
 
