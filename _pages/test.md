@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "文子"
+title: "test"
 permalink: /test/
 ---
 
-{% link /assets/imgs/yin_yang.webp %}
+
+[yin_yang]({% link /assets/imgs/yin_yang.webp %})
+
+
+![Placeholder image]({% link /assets/imgs/yin_yang.webp %})
