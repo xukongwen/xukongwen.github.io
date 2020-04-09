@@ -47,16 +47,16 @@ permalink: /wenzi/
 
 # 庄子
 
-[逍遙遊]({% link _pages/wenzi_12.md %})
+[逍遙遊]({% link _pages/zz_1.md %})
 
-[齊物論]({% link _pages/wenzi_12.md %})
+[齊物論]({% link _pages/zz_2.md %})
 
-[養生主]({% link _pages/wenzi_12.md %})
+[養生主]({% link _pages/zz_3.md %})
 
-[人世間]({% link _pages/wenzi_12.md %})
+[人世間]({% link _pages/zz_4.md %})
 
-[德充符]({% link _pages/wenzi_12.md %})
+[德充符]({% link _pages/zz_5.md %})
 
-[應帝王]({% link _pages/wenzi_12.md %})
+[應帝王]({% link _pages/zz_6.md %})
 
-[大宗師]({% link _pages/wenzi_12.md %})
+[大宗師]({% link _pages/zz_7.md %})
