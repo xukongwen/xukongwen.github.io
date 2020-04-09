@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老，文，庄"
+title: "真人說"
 permalink: /wenzi/
 ---
 
