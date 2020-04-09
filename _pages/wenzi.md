@@ -46,3 +46,17 @@ permalink: /wenzi/
 [精誠]({% link _pages/wenzi_12.md %})
 
 # 庄子
+
+[逍遙遊]({% link _pages/wenzi_12.md %})
+
+[齊物論]({% link _pages/wenzi_12.md %})
+
+[養生主]({% link _pages/wenzi_12.md %})
+
+[人世間]({% link _pages/wenzi_12.md %})
+
+[德充符]({% link _pages/wenzi_12.md %})
+
+[應帝王]({% link _pages/wenzi_12.md %})
+
+[大宗師]({% link _pages/wenzi_12.md %})
