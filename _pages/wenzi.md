@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "文子"
+title: "老，文，庄"
 permalink: /wenzi/
 ---
 
+# 老子
 
+[老子]({% link _pages/laozi.md %})
+
+# 文子
 
 [道德]({% link _pages/wenzi_1.md %})
 
@@ -40,3 +44,5 @@ permalink: /wenzi/
 
 
 [精誠]({% link _pages/wenzi_12.md %})
+
+# 庄子
