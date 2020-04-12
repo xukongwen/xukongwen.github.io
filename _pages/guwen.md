@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "真人說"
-permalink: /wenzi/
+title: "古文"
+permalink: /guwen/
 ---
 
 # 老子
