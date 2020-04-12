@@ -33,3 +33,7 @@ permalink: /guyi/
 [辨霍亂病脈證並治]({% link _pages/sh_9.md %})
 
 [辨陰陽易差後労復病脈証并治]({% link _pages/sh_10.md %})
+
+# 金匱要略
+
+[金匱要略]({% link _pages/jingui.md %})
