@@ -76,3 +76,7 @@ permalink: /wenzi/
 # 六祖壇經
 
 [六祖壇經]({% link _pages/tanjing.md %})
+
+# 四念處經
+
+[四念處]({% link _pages/sinianchujing.md %})
