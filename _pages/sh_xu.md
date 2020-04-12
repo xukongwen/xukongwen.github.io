@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "傷寒論 序"
+title: "序"
 permalink: /sh_xu/
 ---
 
