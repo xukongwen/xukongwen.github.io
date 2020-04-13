@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "test"
-permalink: /test/
+permalink: /test_1/
 ---
 
 
