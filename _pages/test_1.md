@@ -5,6 +5,6 @@ permalink: /test_1/
 ---
 
 
-[Link to a page]({% link /test/d3_test_01.html %})
+lllll
 
 ![Placeholder image]({% link /assets/imgs/yin_yang.webp %})
