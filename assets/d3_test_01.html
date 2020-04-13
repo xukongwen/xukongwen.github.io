@@ -1,27 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+  <p>First paragraph</p>
+  <p>Second paragraph</p>
 
-  {% include head.html %}
-
-  <head>
-      <script src="../d3.min.js"></script>
-  </head>
-
-  <body>
-
-
-    {% include navigation.html %}
-
-    <main>
-      <p>First paragraph</p>
-      <p>Second paragraph</p>
-
-      <script>
-        d3.select("p").style("color", "green");
-      </script>
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
-  </body>
+<script>
+    d3.select("p").style("color", "green");
+</script>
+</body>
 </html>
