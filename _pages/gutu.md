@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "古圖"
+layout: default
 permalink: /gutu/
 ---
 
