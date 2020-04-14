@@ -9,6 +9,9 @@
 
 <script>
     d3.select("p").style("color", "green");
+
+    values = FileAttachment("/assets/data/values@1.json").json()
+    import {chart as chart1} with {values as data} from "@d3/histogram"
 </script>
 </body>
 </html>
