@@ -5,4 +5,4 @@ permalink: /gutu/
 ---
 
 
-![Placeholder image]({% link /assets/imgs/fuxi.webp %})
+![Placeholder image]({% link /assets/imgs/fuxi.png %})
