@@ -18,7 +18,7 @@ permalink: /gujing/
 
 # 壇
 
-[六祖壇經/自序]({% link _pages/tj1.md %})
+[六祖壇經/自序]({% link _pages/tanjing/tj1.md %})
 
 [六祖壇經/般若]({% link _pages/tj2.md %})
 
