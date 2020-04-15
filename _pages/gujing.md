@@ -20,23 +20,23 @@ permalink: /gujing/
 
 [六祖壇經/自序]({% link _pages/tanjing/tj1.md %})
 
-[六祖壇經/般若]({% link _pages/tj2.md %})
+[六祖壇經/般若]({% link _pages/tanjing/tj2.md %})
 
-[六祖壇經/疑問]({% link _pages/tj3.md %})
+[六祖壇經/疑問]({% link _pages/tanjing/tj3.md %})
 
-[六祖壇經/定慧]({% link _pages/tj4.md %})
+[六祖壇經/定慧]({% link _pages/tanjing/tj4.md %})
 
-[六祖壇經/坐禪]({% link _pages/tj5.md %})
+[六祖壇經/坐禪]({% link _pages/tanjing/tj5.md %})
 
-[六祖壇經/懺悔]({% link _pages/tj6.md %})
+[六祖壇經/懺悔]({% link _pages/tanjing/tj6.md %})
 
-[六祖壇經/機緣]({% link _pages/tj7.md %})
+[六祖壇經/機緣]({% link _pages/tanjing/tj7.md %})
 
-[六祖壇經/頓漸]({% link _pages/tj8.md %})
+[六祖壇經/頓漸]({% link _pages/tanjing/tj8.md %})
 
-[六祖壇經/宣詔]({% link _pages/tj9.md %})
+[六祖壇經/宣詔]({% link _pages/tanjing/tj9.md %})
 
-[六祖壇經/付囑]({% link _pages/tj10.md %})
+[六祖壇經/付囑]({% link _pages/tanjing/tj10.md %})
 
 # 處
 
