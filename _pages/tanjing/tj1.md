@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "自序品第一"
-permalink: /tanjing/
+permalink: /tj1/
 ---
 
 
