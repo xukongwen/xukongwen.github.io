@@ -1,8 +1,8 @@
 ---
 layout: default
-title: wenzi3
-parent: wenzi
-grand_parent: dao
+title: 自然
+parent: 文子
+grand_parent: 古道
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: wenzi1
-parent: wenzi
+title: 道德
+parent: 文子
 grand_parent: 古道
 nav_order: 1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: wenzi2
-parent: wenzi
+title: 道源
+parent: 文子
 grand_parent: 古道
 nav_order: 2
 ---

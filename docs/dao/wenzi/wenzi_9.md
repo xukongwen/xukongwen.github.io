@@ -1,8 +1,8 @@
 ---
 layout: default
-title: wenzi9
-parent: wenzi
-grand_parent: dao
+title: 微明
+parent: 文子
+grand_parent: 古道
 nav_order: 9
 ---
 
