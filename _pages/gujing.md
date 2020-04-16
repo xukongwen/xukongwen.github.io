@@ -6,15 +6,15 @@ permalink: /gujing/
 
 # 心
 
-[般若波羅蜜多心經]({% link _pages/xinjing.md %})
+[般若波羅蜜多心經]({% link _pages/jing/xinjing.md %})
 
 # 金
 
-[金剛般若波羅蜜經]({% link _pages/jingangjing.md %})
+[金剛般若波羅蜜經]({% link _pages/jing/jingangjing.md %})
 
 # 圓
 
-[大方廣圓覺修多羅了義經]({% link _pages/yuanjuejing.md %})
+[大方廣圓覺修多羅了義經]({% link _pages/jing/yuanjuejing.md %})
 
 # 壇
 
@@ -40,4 +40,4 @@ permalink: /gujing/
 
 # 處
 
-[四念處經]({% link _pages/sinianchujing.md %})
+[四念處經]({% link _pages/jing/sinianchujing.md %})
