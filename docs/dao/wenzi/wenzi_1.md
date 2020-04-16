@@ -2,7 +2,7 @@
 layout: default
 title: wenzi1
 parent: wenzi
-grand_parent: dao
+grand_parent: 古道
 nav_order: 1
 ---
 
