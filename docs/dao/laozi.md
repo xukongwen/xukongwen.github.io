@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "老子"
-permalink: /laozi/
+layout: default
+title: 老子
+parent: 古道
+nav_order: 2
 ---
 
 
