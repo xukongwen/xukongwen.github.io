@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "符言"
-permalink: /wenzi_fuyan/
+layout: default
+title: wenzi10
+parent: wenzi
+grand_parent: dao
+nav_order: 10
 ---
 
 老子曰：道至高無上，至深無下，平乎準，直乎繩，圓乎規，方乎矩，包裹天地而無表裏，洞同覆蓋而無所荬，是故體道者，不怒不喜，其坐無慮，寢而不夢，見物而名，事至而應。

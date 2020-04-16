@@ -35,8 +35,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "空文 on GitHub":
+    - "//https://github.com/xukongwen/xukongwen.github.io"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: ""

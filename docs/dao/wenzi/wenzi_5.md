@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "下德"
-permalink: /wenzi_xiade/
+layout: default
+title: wenzi5
+parent: wenzi
+grand_parent: dao
+nav_order: 5
 ---
 
 老子曰：治身，太上養神，其次養形，神清意平，百節皆寧，養生之本也，肥肌膚，充腹腸，供嗜欲，養生之末也。治國，太上養化，其次正法，民交讓爭處卑，財利爭受少，事力爭就勞，日化上而遷善，不知其所以然，治之本也，利賞而勸善，畏刑而不敢為非，法令正於上，百姓服於下，治之末也，上世養本，而下世事末。

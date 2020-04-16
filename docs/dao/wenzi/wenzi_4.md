@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "上德"
-permalink: /wenzi_shangde/
+layout: default
+title: wenzi4
+parent: wenzi
+grand_parent: dao
+nav_order: 4
 ---
 
 老子曰：主者，國之心也，心治則百節皆安，心擾即百節皆亂，故其身治者，支體相遺也，其國治者，君臣相忘也。

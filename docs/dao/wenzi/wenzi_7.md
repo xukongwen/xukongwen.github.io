@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "上仁"
-permalink: /wenzi_shangren/
+layout: default
+title: wenzi7
+parent: wenzi
+grand_parent: dao
+nav_order: 7
 ---
 
 老子曰：君子之道，靜以脩身，儉以養生。靜即下不擾，下不擾即民不怨，下擾即政亂，民怨即德薄，政亂賢者不為謀，德薄勇者不為鬥。亂主則不然，一日有天下之富，處一主之勢，竭百姓之力，以奉耳目之欲，志專於宮室臺榭，溝池苑囿，猛獸珍怪，貧民飢餓，虎狼厭芻豢，百姓凍寒，宮室衣綺繡，故人主畜茲旡用之物，而天下不安其性命矣。

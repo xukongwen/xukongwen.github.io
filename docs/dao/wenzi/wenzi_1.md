@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "道德"
-permalink: /wenzi_daode/
+layout: default
+title: wenzi1
+parent: wenzi
+grand_parent: dao
+nav_order: 1
 ---
 
 文子問道。
