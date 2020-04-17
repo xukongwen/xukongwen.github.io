@@ -6,6 +6,7 @@ grand_parent: 古道
 nav_order: 7
 ---
 
+# 大宗師
 
 齧缺問於王倪，四問而四不知。
 
