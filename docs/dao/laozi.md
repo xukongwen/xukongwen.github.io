@@ -2,7 +2,7 @@
 layout: default
 title: 老子
 parent: 古道
-nav_order: 2
+nav_order: 1
 ---
 
 
