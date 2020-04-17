@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 古道
+title: 古醫
 nav_order: 4
 has_children: true
 permalink: /docs/yi

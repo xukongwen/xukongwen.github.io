@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "金匱要略"
-permalink: /jingui/
+layout: default
+title: 金匱要略
+parent: 傷寒論
+grand_parent: 古醫
+nav_order: 12
 ---
 
 # 臟腑經絡先後病脈證第一
