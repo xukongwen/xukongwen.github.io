@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 古道
+title: 黃帝內經
+parent: 古醫
 nav_order: 1
 has_children: true
-permalink: /docs/dao
 ---
 
-# 古道
+# 黃帝內經

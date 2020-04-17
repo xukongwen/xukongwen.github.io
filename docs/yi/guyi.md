@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 古道
-nav_order: 1
+nav_order: 4
 has_children: true
-permalink: /docs/dao
+permalink: /docs/yi
 ---
 
-# 古道
+# 古醫

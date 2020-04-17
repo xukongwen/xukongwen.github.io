@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 古道
+title: 壇經
+parent: 古經
 nav_order: 1
 has_children: true
-permalink: /docs/dao
 ---
 
-# 古道
+# 壇經
