@@ -11,9 +11,10 @@ permalink: /docs/about
 
 ## Based on Just The Docs
 ---
-本網站是基於開源靜態網站theme [Just The Docs](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-製作。
-網站搭建和部分內容由[曠修](https://blog.konghy.cn)貢獻。
+本網站是基於開源靜態網站 [Just The Docs](https://github.com/pmarsceill/just-the-docs)
+製作。<br>
+
+網站搭建和部分內容由 [曠修](https://blog.konghy.cn) 貢獻。
 
 ## 返於光陰
 ---
