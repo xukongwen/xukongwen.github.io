@@ -26,9 +26,9 @@
 
 @mixin fs-4 {
   font-size: 14px !important;
-
+// 這裡應該是主要文本字體大小
   @include mq(sm) {
-    font-size: 19px !important;
+    font-size: 16px !important;
   }
 }
 
