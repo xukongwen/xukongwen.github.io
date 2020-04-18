@@ -13,7 +13,7 @@ permalink: /docs/about
 ---
 本網站是基於開源靜態網站theme [Just The Docs](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 製作。
-網站搭建和部分內容由曠修貢獻。
+網站搭建和部分內容由[曠修](https://blog.konghy.cn)貢獻。
 
 ## 返於光陰
 ---
