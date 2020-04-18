@@ -1,4 +1,5 @@
-// Font size
+// 字體大小控制
+// 上面是手機的字體大小，下面才是電腦字體大小！
 
 @mixin fs-1 {
   font-size: 9px !important;
@@ -9,7 +10,7 @@
 }
 
 @mixin fs-2 {
-  font-size: 11px !important;
+  font-size: 14px !important;
 // 這裡是文章上面導航連接和下面連接的字體大小
   @include mq(sm) {
     font-size: 14px !important;
@@ -23,7 +24,7 @@
     font-size: 14px !important;
   }
 }
-
+//
 @mixin fs-4 {
   font-size: 19px !important;
 // 這裡是主要文本字體大小
