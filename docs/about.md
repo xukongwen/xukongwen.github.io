@@ -2,7 +2,7 @@
 layout: default
 title: 臨時說明
 nav_order: 99
-permalink: /docs/test
+permalink: /docs/about
 ---
 
 # 關於本站
