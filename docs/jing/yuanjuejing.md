@@ -12,9 +12,9 @@ nav_order: 3
 
 
 ## 十二菩薩白佛言
-{: .no_toc .text-delta }
+{: .no_toc }
 
-1. TOC
+TOC
 {:toc}
 
 
