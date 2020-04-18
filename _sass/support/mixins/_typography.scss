@@ -20,13 +20,13 @@
   font-size: 12px !important;
 
   @include mq(sm) {
-    font-size: 19px !important;
+    font-size: 12px !important;
   }
 }
 
 @mixin fs-4 {
   font-size: 14px !important;
-// 這裡應該是主要文本字體大小
+// 這裡是主要文本字體大小
   @include mq(sm) {
     font-size: 16px !important;
   }
