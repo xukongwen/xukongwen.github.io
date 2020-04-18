@@ -7,15 +7,16 @@ nav_order: 3
 
 
 # 大方廣圓覺修多羅了義經
-
+{: .no_toc }
 ---
 
 
 ## 十二菩薩白佛言
-{: .no_toc }
+{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+1. TOC {:toc}
+
+---
 
 
 如是我聞。
