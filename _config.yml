@@ -7,7 +7,7 @@ url: "http://kongwen.one"
 permalink: pretty
 exclude:
   - "node_modules/"
-  - "assets/doc_search/dao/"
+  - "assets/doc_search/"
   - "*.gemspec"
   - "*.gem"
   - "Gemfile"
