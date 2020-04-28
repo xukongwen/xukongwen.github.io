@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 臨時說明
+title: 關於
 nav_order: 99
 permalink: /docs/about
 ---
