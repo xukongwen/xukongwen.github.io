@@ -9,6 +9,11 @@ permalink: /docs/about
 
 ---
 
+## 返於光陰
+---
+
+本網站于閒暇無事之時光，瀏覽和學習中國古人的生活智慧。
+
 ## Based on Just The Docs
 ---
 本網站是基於開源靜態網站 [Just The Docs](https://github.com/pmarsceill/just-the-docs)
@@ -16,10 +21,6 @@ permalink: /docs/about
 
 網站搭建和部分內容由 [曠修](https://blog.konghy.cn) 貢獻。
 
-## 返於光陰
----
-
-本網站于閒暇無事之時光，瀏覽和學習中國古人的生活智慧。
 
 ## 待完成的功能
 ---
