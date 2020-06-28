@@ -9,7 +9,7 @@ permalink: /docs/learn
 
 ---
 
-![看看](https://kongwen.one/assets/imgs/fuxi.png)
+![看看](https://kongwen.one/assets/imgs/one.png)
 
 未來一些學習和研究古人的文章和數據放在這裡。
 
