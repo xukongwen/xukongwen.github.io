@@ -42,7 +42,7 @@ permalink: /docs/log
 这。。。
 于是又买了一个，因为之前都是在pi 4 上面进行的，但我希望能放在功耗更低的zero上试试。
 
-[](https://s3.ax1x.com/2021/01/30/yk7uOP.jpg)
+![](https://s3.ax1x.com/2021/01/30/yk7uOP.jpg)
 死前的靓照
 
 
@@ -50,12 +50,12 @@ permalink: /docs/log
 我已经死过两个pi了，算上今天这个，是第三个了。
 
 
-[](https://s3.ax1x.com/2021/01/30/yk7mQI.jpg)
+![](https://s3.ax1x.com/2021/01/30/yk7mQI.jpg)
 我为其中一个树立了坟墓。。。
 
 
 
-[](https://s3.ax1x.com/2021/01/30/yk7Mef.jpg)
+![](https://s3.ax1x.com/2021/01/30/yk7Mef.jpg)
 今天使用None-OS制作网站。。。
 
 
