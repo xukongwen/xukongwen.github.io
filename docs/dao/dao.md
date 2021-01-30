@@ -1,9 +1,11 @@
 ---
 layout: default
 title: 古道
-nav_order: 2
+parent: 古文
+nav_order: 1
 has_children: true
-permalink: /docs/dao
 ---
 
 # 古道
+
+
