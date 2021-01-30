@@ -18,8 +18,14 @@ permalink: /docs/os
 
 4. 加入谷歌翻译
 
+5. 加入更多常用快捷键（比如一键Git stage-commit-push）
+
 
 # 如何使用
+
+F2 调出Emacs设置文件
+
+F8 调出侧边文件树
 
 # 简易的Emacs教学
 
