@@ -16,9 +16,20 @@ permalink: /docs/os
 
 3. 去掉恼人的自动储存文件。这会严重干扰Git的工作。
 
-4. 加入谷歌翻译
+4. 加入谷歌翻译。
 
-5. 加入更多常用快捷键（比如一键Git stage-commit-push）
+5. 加入更多常用快捷键（比如一键Git stage-commit-push）。
+
+6. 进入时打开离开时的文件。
+
+7. 网站用Org-mode制作。
+
+8. 中文字数统计。
+
+9. 词汇搜索和夸文件词汇搜索。
+
+10. 尝试用kittyterm实现16bit color显示，现在是fbterm的8bit，也就是256色显示。
+
 
 
 # 如何使用
