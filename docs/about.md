@@ -14,7 +14,7 @@ permalink: /docs/about
 
 網站搭建和部分內容由 [曠修](https://blog.konghy.cn) 貢獻。
 
-内容在None-Os写作。
+内容在None-Os上写作。
 
 ---
 ## 联系
