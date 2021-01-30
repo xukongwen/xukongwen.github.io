@@ -1,9 +1,10 @@
+
 ---
 layout: default
 title: 古醫
-nav_order: 4
+parent: 古文
+nav_order: 3
 has_children: true
-permalink: /docs/yi
 ---
 
 # 古醫
