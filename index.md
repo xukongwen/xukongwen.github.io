@@ -1,6 +1,6 @@
 ---
 layout: default
-title: none-os
+title: noneos
 nav_order: 1
 description: ""
 permalink: /
