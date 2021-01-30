@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 关于None-Os
+title: 关于None-OS
 nav_order: 1
 description: ""
 permalink: /
