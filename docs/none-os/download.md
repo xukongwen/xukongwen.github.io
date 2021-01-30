@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 下载
+title: 下载与安装
 parent: None-Os
 nav_order: 2
 ---
