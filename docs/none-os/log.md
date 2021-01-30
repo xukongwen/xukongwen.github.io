@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 下载
+title: 制作日志
 parent: None-Os
-nav_order: 2
+nav_order: 1
 ---
 
-下载
+日志
