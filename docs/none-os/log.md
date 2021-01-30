@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 制作日志
-parent: None-Os
-nav_order: 1
+nav_order: 3
+permalink: /docs/log
 ---
 
 日志
