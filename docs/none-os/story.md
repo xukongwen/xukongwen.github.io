@@ -5,6 +5,8 @@ nav_order: 5
 permalink: /docs/story
 ---
 
+![](https://s3.ax1x.com/2021/01/30/yF3Bkt.png)
+
 缘起
 这个小项目（当下正在进行）源自正在写作的小说。
 
