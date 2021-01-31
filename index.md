@@ -10,7 +10,7 @@ permalink: /
 
 
 None-OS是一个开机即进入一个干净简单写作模式的低功耗硬件和软件的集合工具。
-{: .label .label-yellow .fs-7 .fw-700 }
+{: .label .label-yellow .fs-7 .fw-600 }
 
 具体说来，她是由一个树莓派ZREO W，机械硬盘，显示器组成的低功耗电脑，里面运行的系统是定制好的Linux+Emacs。（开机即用）
 
