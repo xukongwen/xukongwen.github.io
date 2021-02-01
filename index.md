@@ -6,7 +6,7 @@ description: ""
 permalink: /
 ---
 
-![](https://s3.ax1x.com/2021/01/30/yF3rff.png)
+![](https://s3.ax1x.com/2021/02/01/yVB58S.png)
 
 
 None-OS是一个开机即进入一个干净简单写作模式的低功耗硬件和软件的集合工具。
