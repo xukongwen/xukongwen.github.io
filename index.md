@@ -42,7 +42,8 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/01/yZRVyV.png)
+![](https://s3.ax1x.com/2021/02/01/yekitO.png)
+
 **None-OS界面，真的是啥也没有。。。打开树莓派就直接进入文字输入**
 {: .text-center }
 
@@ -56,7 +57,6 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/01/yekitO.png)
 
 实际上这个东西既是我现在使用的写作工具，也是我正在写作小说里的一个“科幻”产物。
 
