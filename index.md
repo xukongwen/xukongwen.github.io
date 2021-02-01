@@ -9,7 +9,26 @@ permalink: /
 ![](https://s3.ax1x.com/2021/02/01/yVB58S.png)
 
 
-## 让我一个人安静的写会字
+
+
+
+
+
+
+
+** 让我一个人安静的写会字**
+{: .d-none .d-md-inline-block .v-align-middle}
+
+
+
+
+
+
+
+
+
+
+
 
 None-OS是一个开机即进入一个干净简单写作模式的低功耗硬件和软件的集合工具。
 
