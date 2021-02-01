@@ -17,7 +17,7 @@ permalink: /
 
 
 让我一个人安静的写会字
-{: .v-align-middle }
+{: .text-center }
 
 
 
