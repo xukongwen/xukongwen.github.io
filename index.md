@@ -20,6 +20,17 @@ permalink: /
 {: .v-align-middle}
 
 
+[ A button ](#url)
+{: .d-none .d-md-inline-block }
+
+These headings will be `inline-block`:
+
+### heading 3
+{: .d-inline-block }
+
+### heading 3
+{: .d-inline-block }
+
 
 
 
