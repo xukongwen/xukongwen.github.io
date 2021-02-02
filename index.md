@@ -25,7 +25,7 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/01/yVBbbn.png)
+![](https://s3.ax1x.com/2021/02/01/yekitO.png)
 
 
 **None-OS是一个开机即进入一个干净简单写作模式的低功耗硬件和软件的集合工具。**
@@ -42,7 +42,7 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/01/yekitO.png)
+![]()
 
 **None-OS界面，真的是啥也没有。。。打开树莓派就直接进入文字输入(文本为翻译Múm的绿草管道)**
 {: .text-center }
