@@ -21,13 +21,29 @@ permalink: /docs/download
 
 [下载树莓派烧录软件](https://www.raspberrypi.org/software/)
 
+## 具体操作
+
+点击CHOOSE OS 然后选择你下载好的None-OS
+
+然后点击CHOOSE SD CARD，选择你的迷你sd卡
+
+最后点击WRITE
+
+等一段时间烧录完成，将SD卡插入PI
+
 
 # 你也可以DIY。
 
+你也完全可以自己制作这样一个None-OS，下面是大略的步骤：
 
-设置
+## 修改键盘配置
 
-首先添加国内源
+我首先遇到的问题是键盘不匹配，因为PI出厂是默认英国，但我们的键盘大部分US制式。
+
+
+
+
+## 首先添加国内源
 
 sudo nano /etc/apt/sources.list
 
@@ -38,10 +54,16 @@ sudo nano /etc/apt/sources.list.d/raspi.list
 
 deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
 
-输入法和fb安装
+## 中文显示与中文输入
+
+这里特别感谢Ubuntu中国论坛的一位版主的热心教学
+
+[原帖](https://forum.ubuntu.org.cn/viewtopic.php?f=8&t=491820)
 
 sudo apt install --no-install-recommends fbterm fcitx-module-dbus dbus-x11 fcitx-frontend-fbterm fcitx-pinyin fonts-wqy-microhei
+
 sudo setcap 'cap_sys_tty_config+ep' /usr/bin/fbterm
+
 sudo adduser $USER video
 
 fcitx
@@ -51,7 +73,7 @@ fcitx -r
 fbterm -i fcitx-fbterm
 
 
-=======去掉各种开头文字=====================
+## 去掉各种开头文字
 
  /boot/config.txt, add disable_splash=1
 
@@ -89,5 +111,5 @@ sudo nano /etc/systemd/system/getty@tty1.service.d/autologin.conf
 
 ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi" %I $TERM
 
-===========samba==============
+## 安装samba（nas文件系统）
 
