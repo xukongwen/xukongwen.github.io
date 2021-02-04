@@ -5,6 +5,12 @@ nav_order: 2
 permalink: /docs/os
 ---
 
+# 请移步至Emacs中国。
+
+如果想系统学习Emacs，请访问[Emacs China](https://emacs-china.org/)
+
+我认为这是中国最好的一个Emacs社区，里面有大量教学，并且很多人愿意帮助你。
+
 # 现在没有解决的问题
 
 1. 中文间距过大，这个应该是Fbterm的问题，与Emacs无关。
@@ -40,4 +46,4 @@ F8 调出侧边文件树
 
 # 简易的Emacs教学
 
-
+暂时空缺。

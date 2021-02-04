@@ -8,8 +8,8 @@ permalink: /docs/download
 # 下载
 
 
-[0.002版2021.2.4（800M）](https://pan.baidu.com/s/1MswQOyTAMqt5TyXvqo3YNw)
-提取码: gcwq 
+[0.002版2021.2.4（800M）](https://pan.baidu.com/s/1I3varnZplIA5h8mrmd2LoQ)
+提取码: 72xn
 
 升级内容：
 
@@ -369,7 +369,8 @@ sudo mv pishrink.sh /usr/local/bin
 
 sudo pishrink.sh pi.img
 
-基本上就大功告成了。（根据情况不同，压缩率也不同，我大概是15G可压缩到15.-3G左右。随后你还可以zip一下，体积可以缩减到800M左右，期待未来继续缩减体积）
+![](https://s3.ax1x.com/2021/02/04/y1WPSK.png)
 
+基本上就大功告成了。（根据情况不同，压缩率也不同，我大概是15G可压缩到15.-3G左右。随后你还可以zip一下，体积可以缩减到800M左右，期待未来继续缩减体积）
 
 整个过程基本上就是这样了，期待高手指正和优化其中不好的部分，我将非常感谢。
