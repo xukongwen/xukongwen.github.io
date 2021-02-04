@@ -160,6 +160,7 @@ sudo apt install fbi
 
 sudo vim /etc/systemd/system/splashscreen.service
 
+```js
 [Unit]
 Description=Splash screen
 DefaultDependencies=no
@@ -172,7 +173,7 @@ StandardOutput=tty
 
 [Install]
 WantedBy=sysinit.target
-
+```
 
 sudo systemctl enable splashscreen
 
@@ -263,7 +264,12 @@ smb://192.168.1.2
 # 更换字体
 
 将所有字体放到
+
 /usr/share/fonts/truetype
+
+假设你正在share目录下
+
+sudo cp KKong.ttf /usr/share/fonts/truetype/
 
 随后，生成字体
 sudo fc-cache -v -f
