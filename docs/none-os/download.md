@@ -94,12 +94,24 @@ sudo apt install --no-install-recommends fbterm fcitx-module-dbus dbus-x11 fcitx
 fcitx
 nano ~/.config/fcitx/profile
 
-fcitx -r
-fbterm -i fcitx-fbterm
-
 ## .bashrc配置
 
 这里是一些自动启动的相关配置，比如进入fbterm和开启输入法之类的。
+
+```js
+clear
+# 这个大家也可以自定义
+PS1="别:"
+# 在后台进入输入法，因为输入法有莫名报错信息（不影响使用）
+(fcitx &) > /dev/null 2>&1
+fbterm
+
+#让fbterm显示256色
+export TERM=fbterm
+
+#直接打开emacs
+emacs -nw
+```
 
 ## .fbtermrc配置
 
