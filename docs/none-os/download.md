@@ -60,12 +60,19 @@ deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ buster main non-free 
 deb-src http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ buster main non-free contrib
 ```
 ctrl+o储存
+
 ctrl+x退出
 
 
->sudo nano /etc/apt/sources.list.d/raspi.list
+随后同样操作另外一个文件
+```js
+sudo nano /etc/apt/sources.list.d/raspi.list
+```
 
+```js
 deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
+```
+
 
 ## 中文显示与中文输入
 
@@ -73,7 +80,12 @@ deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
 
 [原帖](https://forum.ubuntu.org.cn/viewtopic.php?f=8&t=491820)
 
->sudo apt install --no-install-recommends fbterm fcitx-module-dbus dbus-x11 fcitx-frontend-fbterm fcitx-pinyin fonts-wqy-microhei
+首先最小化安装fbterm和输入法
+
+```js
+sudo apt install --no-install-recommends fbterm fcitx-module-dbus dbus-x11 fcitx-frontend-fbterm fcitx-pinyin fonts-wqy-microhei
+```
+
 
 >sudo setcap 'cap_sys_tty_config+ep' /usr/bin/fbterm
 
