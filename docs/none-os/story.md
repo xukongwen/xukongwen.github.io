@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 设计
+title: 硬件
 nav_order: 5
 permalink: /docs/story
 ---
