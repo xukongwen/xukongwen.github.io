@@ -8,8 +8,14 @@ permalink: /docs/download
 # 下载
 
 
-[0.001版2021.2.3（800M）](https://pan.baidu.com/s/1MswQOyTAMqt5TyXvqo3YNw)
+[0.002版2021.2.4（800M）](https://pan.baidu.com/s/1MswQOyTAMqt5TyXvqo3YNw)
 提取码: gcwq 
+
+升级内容：
+
+第一版竟然无法显示光标，这一版解决了这个问题。
+
+## 关于硬件
 
 我推荐使用PI4，虽然在P Zero W上也测试成功，但是Zero几乎比PI4慢3倍。
 
@@ -156,18 +162,27 @@ input-method=fcitx-fbterm
 
 这里大家可以根据自己的喜好来取舍，有人喜欢原汁原文的PI，也有人可能喜欢隐藏这些开机文字。
 
- /boot/config.txt, add disable_splash=1
+ vim /boot/config.txt
+ 
+ disable_splash=1
 
-cmdline.txt
+vim /boot/cmdline.txt
 
-console=serial0,115200 console=tty3 root=PARTUUID=ac99701a-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait logo.nologo consoleblank=0 loglevel=3 quite vt.global_cursor_default=0 plymouth.enable=0 plymouth.ignore-serial-consoles fastboot noatime nodiratime noram
+将里面的 “console=tty1” 换成  “console=tty3”。
 
+在这一行的最后加入，请注意，保持所有内容为一行
+splash quiet plymouth.ignore-serial-consoles logo.nologo vt.global_cursor_default=0
 
+让某些启动文字消失
 sudo systemctl disable getty@tty3
 
+安装fbi，可以用自己的启动图片
 sudo apt install fbi
 
+建立新设置文档
 sudo vim /etc/systemd/system/splashscreen.service
+
+在新建的文档中输入如下文字
 
 ```js
 [Unit]
@@ -183,13 +198,25 @@ StandardOutput=tty
 [Install]
 WantedBy=sysinit.target
 ```
+请注意，在上面正确的目录放置图片，也确保所有名称都是正确的，否则可以引起无法开机。（我就发生过）
+
+
+开启自定义登录画面
 
 sudo systemctl enable splashscreen
 
 
+隐藏自动登录信息
+
 touch ~/.hushlogin
 
 sudo nano /etc/systemd/system/getty@tty1.service.d/autologin.conf
+
+让其中的：
+
+ExecStart=-/sbin/agetty --autologin pi --noclear %I xterm-256color
+
+替换为：
 
 ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi" %I $TERM
 
@@ -276,7 +303,7 @@ smb://192.168.1.2
 
 /usr/share/fonts/truetype
 
-假设你正在share目录下
+假设你正在该字体当前目录下
 
 sudo cp KKong.ttf /usr/share/fonts/truetype/
 
@@ -296,5 +323,9 @@ sudo fc-cache -v -f
 
 ## 制作镜像
 
+
+
 ## 压缩镜像
+
+
 
