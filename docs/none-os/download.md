@@ -11,6 +11,10 @@ permalink: /docs/download
 [0.001版2021.2.3（800M）](https://pan.baidu.com/s/1MswQOyTAMqt5TyXvqo3YNw)
 提取码: gcwq 
 
+我推荐使用PI4，虽然在P Zero W上也测试成功，但是Zero几乎比PI4慢3倍。
+
+PI4 开机到可写作30秒，PI Zero要1分30秒，打开较大文件也耗时太久，同时文字量超过70万字时，打字略有卡顿。
+
 ---
 
 # 如何安装
@@ -72,8 +76,14 @@ nano ~/.config/fcitx/profile
 fcitx -r
 fbterm -i fcitx-fbterm
 
+## .bashrc配置
 
-## 去掉各种开头文字
+这里是一些自动启动的相关配置，比如进入fbterm和开启输入法之类的。
+
+
+## 去掉各种开机文字
+
+这里大家可以根据自己的喜好来取舍，有人喜欢原汁原文的PI，也有人可能喜欢隐藏这些开机文字。
 
  /boot/config.txt, add disable_splash=1
 
@@ -94,7 +104,7 @@ DefaultDependencies=no
 After=local-fs.target
 
 [Service]
-ExecStart=/usr/bin/fbi -d /dev/fb0 --noverbose -a /home/pi/image001.png
+ExecStart=/usr/bin/fbi -d /dev/fb0 --noverbose -a /home/pi/share/bootlogo.png
 StandardInput=tty
 StandardOutput=tty
 
@@ -113,3 +123,16 @@ ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi"
 
 ## 安装samba（nas文件系统）
 
+安装samba系统主要是为了之后把字体文件，emacs配置，以及自定义的Logo文件放到PI里头。
+
+同时，自己写的文档，如果你不上传Github的话，也可以通过这个方式传到其他电脑。
+
+# 配置Emacs
+
+你可以直接下载这个配置文件，当然也可以根据自己的喜好自己制作。
+
+这是一个为文本写作设计的配置，可能非常不适合程序员使用。
+
+未来配置文件也会持续更新（也许吧）。
+
+[下载配置]()
