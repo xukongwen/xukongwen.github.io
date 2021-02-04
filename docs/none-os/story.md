@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 故事与设计
+title: 设计
 nav_order: 5
 permalink: /docs/story
 ---

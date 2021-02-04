@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 下载与安装
+title: 安装
 nav_order: 3
 permalink: /docs/download
 ---
@@ -352,6 +352,10 @@ fc-list
 ```js
 sudo fc-cache -v -f
 ```
+
+具体让字体更改生效请修改
+
+.fbtermrc
 
 
 # 制作镜像

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 制作日志
+title: 日志
 nav_order: 4
 permalink: /docs/log
 ---

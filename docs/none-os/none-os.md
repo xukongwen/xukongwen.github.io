@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 说明与教学
+title: 说明
 nav_order: 2
 permalink: /docs/os
 ---
