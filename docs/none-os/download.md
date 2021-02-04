@@ -210,6 +210,12 @@ vim /etc/samba/smb.conf
 	valid user = pi
 	create mask = 0777
 ```
+这里要注意，首先要确保你有/home/pi/share/这个目录
+如果没有，那么就建立一个
+
+```js
+mkdir share
+```
 
 保存退出后，在终端输入如下命令以重启服务
 
@@ -252,6 +258,21 @@ smb://192.168.1.2
 也同样拷贝到以上目录
 
 第一次运行的时候有可能需要手动安装一个包
+
+
+# 更换字体
+
+将所有字体放到
+/usr/share/fonts/truetype
+
+随后，生成字体
+sudo fc-cache -v -f
+
+查看已经安装的字体
+fc-list
+
+如果要删除某个字体，直接删除字体文件，然后执行
+sudo fc-cache -v -f
 
 
 # 制作镜像
