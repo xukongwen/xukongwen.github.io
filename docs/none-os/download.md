@@ -192,7 +192,7 @@ ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi"
 ```js
 sudo apt install samba
 sudo touch /etc/samba/smbpasswd
-sudo smbpasswd pi
+sudo smbpasswd -a pi
 ```
 这里是给pi这个用户设置一个密码，大家自己设置
 
