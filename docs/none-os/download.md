@@ -147,6 +147,12 @@ ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi"
 
 > ~/.emacs.d/
 
+为了在emacs上显示256色，需要下载这个文件
+
+[下载文件](http://none-os.com/docs/none-os/fbterm.el)
+
+也同样拷贝到以上目录
+
 第一次运行的时候有可能需要手动安装一个包
 
 
