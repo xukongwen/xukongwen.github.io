@@ -7,6 +7,8 @@ permalink: /docs/story
 
 ![](https://s3.ax1x.com/2021/01/31/yA6tT1.jpg)
 
+这里是None-OS携带的私货，请不喜者见谅。
+
 # 缘起
 
 None-OS的起源说起来略有点复杂。

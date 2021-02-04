@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 说明
-nav_order: 2
+nav_order: 3
 permalink: /docs/os
 ---
 
