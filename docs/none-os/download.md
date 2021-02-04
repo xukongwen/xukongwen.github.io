@@ -11,6 +11,8 @@ permalink: /docs/download
 [0.002版2021.2.4（800M）](https://pan.baidu.com/s/1I3varnZplIA5h8mrmd2LoQ)
 提取码: 72xn
 
+Emacs版本26.1
+
 升级内容：
 
 第一版竟然无法显示光标，这一版解决了这个问题。
