@@ -86,13 +86,19 @@ deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
 sudo apt install --no-install-recommends fbterm fcitx-module-dbus dbus-x11 fcitx-frontend-fbterm fcitx-pinyin fonts-wqy-microhei
 ```
 
+```js
+sudo setcap 'cap_sys_tty_config+ep' /usr/bin/fbterm
+```
 
->sudo setcap 'cap_sys_tty_config+ep' /usr/bin/fbterm
+```js
+sudo adduser $USER video
+```
 
->sudo adduser $USER video
-
+```js
 fcitx
 nano ~/.config/fcitx/profile
+```
+
 
 ## .bashrc配置
 
@@ -188,6 +194,8 @@ sudo apt install samba
 sudo touch /etc/samba/smbpasswd
 sudo smbpasswd pi
 ```
+这里是给pi这个用户设置一个密码，大家自己设置
+
 打开下面这个文档
 ```js
 vim /etc/samba/smb.conf
@@ -216,6 +224,11 @@ sudo /etc/init.d/smbd restart
 smb://192.168.1.2
 ```
 以上的ip是打个比方
+
+最后用户名输入pi
+密码输入上面你自己设定的密码
+
+于是就可以传输文件了
 
 
 # 配置Emacs
