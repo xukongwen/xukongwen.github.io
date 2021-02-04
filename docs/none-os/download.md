@@ -107,6 +107,23 @@ fbterm -i fcitx-fbterm
 
 尤其字体大小部分，请使用者非常注意，因为每个人的屏幕像素不一样，所以也请根据情况修改。
 
+```js
+# 你可以添加自己的字体，具体方法后面放出
+font-names=KKong,mono
+font-size=50
+# 背景颜色和文字颜色
+color-foreground=7
+color-background=0
+# 这个也许不是必须
+text-encodings=UTF-8
+# 我把光标调整成了方块，因为在fbterm下面，下滑线的光标经常自己消失。。。
+cursor-shape=1 
+# 光标不闪烁，这样和我mac上的基本就一模一样了
+cursor-interval=0
+# 设置输入法
+input-method=fcitx-fbterm
+```
+
 
 ## 去掉各种开机文字
 
