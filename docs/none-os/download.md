@@ -183,6 +183,41 @@ ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi"
 
 同时，自己写的文档，如果你不上传Github的话，也可以通过这个方式传到其他电脑。
 
+```js
+sudo apt install samba
+sudo touch /etc/samba/smbpasswd
+sudo smbpasswd pi
+```
+打开下面这个文档
+```js
+vim /etc/samba/smb.conf
+```
+
+在文档最下方输入如下文字
+
+```js
+[None-OS-Share]
+	path = /home/pi/share/
+	writable = yes
+	valid user = pi
+	create mask = 0777
+```
+
+保存退出后，在终端输入如下命令以重启服务
+
+```js
+sudo /etc/init.d/smbd restart
+```
+
+如此，你查看好本机的ip后
+到你的另外一台电脑上的file管理器中输入
+
+```js
+smb://192.168.1.2
+```
+以上的ip是打个比方
+
+
 # 配置Emacs
 
 你可以直接下载这个配置文件，当然也可以根据自己的喜好自己制作。
@@ -206,3 +241,10 @@ ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi"
 第一次运行的时候有可能需要手动安装一个包
 
 
+# 制作镜像
+
+你甚至可以发布自己DIY的镜像！
+
+## 制作镜像
+
+## 压缩镜像
