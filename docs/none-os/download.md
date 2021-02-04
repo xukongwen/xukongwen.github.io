@@ -80,6 +80,12 @@ fbterm -i fcitx-fbterm
 
 这里是一些自动启动的相关配置，比如进入fbterm和开启输入法之类的。
 
+## .fbtermrc配置
+
+这里可以自定义字体以及字体大小。
+
+尤其字体大小部分，请使用者非常注意，因为每个人的屏幕像素不一样，所以也请根据情况修改。
+
 
 ## 去掉各种开机文字
 
@@ -135,4 +141,12 @@ ExecStart=-/sbin/agetty --skip-login --noclear --noissue --login-options "-f pi"
 
 未来配置文件也会持续更新（也许吧）。
 
-[下载配置]()
+[下载配置](http://none-os.com/docs/none-os/init.el)
+
+将这个配置文件拷贝到你的
+
+> ~/.emacs.d/
+
+第一次运行的时候有可能需要手动安装一个包
+
+
