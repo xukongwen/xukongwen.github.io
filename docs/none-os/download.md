@@ -7,16 +7,22 @@ permalink: /docs/download
 
 # 下载
 
+[0.003版2021.2.8](https://pan.baidu.com/s/1O0OriKOQDVvxbC5SSZq-Iw)
 
-[0.002版2021.2.4（800M）](https://pan.baidu.com/s/1I3varnZplIA5h8mrmd2LoQ)
+提取码: n27i
 
-提取码: 72xn
-
+Vim 8.2
 Emacs版本26.1
 
 升级内容：
 
-第一版竟然无法显示光标，这一版解决了这个问题。
+0.3 这个版本将Vim作为默认编辑器，原因也很简单，测试发现Emacs对于超过70万字的文档几乎无法操作（严重延时），同时打开文档的速度，Vim大约是Emacs的3-10倍。而Vim打开100万字文档几乎秒开，而且输入没有任何延迟。
+
+Vim的无敌的顺畅和简单特别适合在机能有限的Pi上面。
+
+如果有喜欢Emacs的可以在.bashrc里面选择，把vim注释掉就可以了.
+
+0.2 第一版竟然无法显示光标，这一版解决了这个问题。
 
 ## 关于硬件
 
