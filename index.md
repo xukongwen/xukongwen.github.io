@@ -25,10 +25,7 @@ permalink: /
 
 ---
 
-![](https://media.giphy.com/media/to5VaxmP7ebh9OJ5cC/giphy.gif)
-{: .v-align-middle }
-
-
+![](https://s3.ax1x.com/2021/02/14/yyYzTS.gif)
 
 **None-OS界面，就是配置好的vim**
 {: .text-center }
