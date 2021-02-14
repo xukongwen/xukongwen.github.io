@@ -39,7 +39,7 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/14/yywiqI.png)
+![](https://s3.ax1x.com/2021/02/14/yywEIf.png)
 
 
 实际上这个东西既是我现在使用的写作工具，也是我正在写作小说里的一个“科幻”产物。
