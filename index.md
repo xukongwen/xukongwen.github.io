@@ -26,6 +26,7 @@ permalink: /
 ---
 
 ![](https://media.giphy.com/media/to5VaxmP7ebh9OJ5cC/giphy.gif)
+{: .v-align-middle }
 
 
 
