@@ -25,7 +25,7 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/14/yyYzTS.gif)
+![](https://s3.ax1x.com/2021/02/14/yytNkD.gif)
 
 **None-OS界面，就是配置好的vim**
 {: .text-center }
