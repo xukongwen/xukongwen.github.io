@@ -5,9 +5,7 @@ nav_order: 5
 permalink: /docs/story
 ---
 
-![](https://s3.ax1x.com/2021/01/31/yA6tT1.jpg)
-
-这里是None-OS携带的私货，请不喜者见谅。
+![](https://s3.ax1x.com/2021/02/14/yyu2Hs.png)
 
 # 缘起
 
@@ -15,7 +13,37 @@ None-OS的起源说起来略有点复杂。
 
 只能一点一点说。
 
+![](https://s3.ax1x.com/2021/01/31/yA6tT1.jpg)
 
+1
+
+![](https://s3.ax1x.com/2021/02/04/y1xUlF.jpg)
+
+2
+
+![](https://s3.ax1x.com/2021/02/04/y1xokt.png)
+
+3
+
+![](https://s3.ax1x.com/2021/02/04/y1xjmj.png)
+
+4
+
+![](https://s3.ax1x.com/2021/02/02/yukGLj.jpg)
+
+5
+
+![](https://s3.ax1x.com/2021/02/08/yNLWmF.jpg)
+
+![](https://s3.ax1x.com/2021/01/30/yk7mQI.jpg)
+
+![](https://s3.ax1x.com/2021/01/30/yk7uOP.jpg)
+
+![](https://s3.ax1x.com/2021/01/30/yk7Mef.jpg)
+
+![](https://s3.ax1x.com/2021/01/30/yF361S.png)
+
+![](https://s3.ax1x.com/2021/02/02/yuk3Qg.jpg)
 
 这个小项目（当下正在进行）源自正在写作的小说。
 

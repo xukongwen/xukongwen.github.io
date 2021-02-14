@@ -6,14 +6,8 @@ description: ""
 permalink: /
 ---
 
-![](https://s3.ax1x.com/2021/02/14/yyu2Hs.png)
 
-
-
-
-
-
-
+![](https://s3.ax1x.com/2021/02/14/yytNkD.gif)
 
 
 **None-OS是一个开机即进入一个干净简单写作模式的低功耗硬件和软件的集合工具（无任何技术含量，只是方便大家省去配置的时间和麻烦）。**
@@ -21,14 +15,7 @@ permalink: /
 
 
 
-
-
 ---
-
-![](https://s3.ax1x.com/2021/02/14/yytNkD.gif)
-
-**None-OS界面，就是配置好的vim**
-{: .text-center }
 
 
 具体说来，她是由一个树莓派精简系列，机械键盘，显示器组成的低功耗电脑，里面运行的系统是定制好的Linux+Vim。（开机即用）
