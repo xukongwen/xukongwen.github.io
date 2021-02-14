@@ -25,7 +25,7 @@ permalink: /
 
 ---
 
-![](https://s3.ax1x.com/2021/02/01/yekitO.png)
+![](https://media.giphy.com/media/to5VaxmP7ebh9OJ5cC/giphy.gif)
 
 
 
