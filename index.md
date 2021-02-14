@@ -30,7 +30,7 @@ permalink: /
 
 
 
-**None-OS界面，真的是啥也没有。。。打开树莓派就直接进入文字输入(文本为翻译Múm的绿草管道)**
+**None-OS界面，就是配置好的vim**
 {: .text-center }
 
 
