@@ -10,7 +10,7 @@ permalink: /
 ![](https://s3.ax1x.com/2021/02/14/yytNkD.gif)
 
 
-**让我安静的写一会字**
+**让我安静写一会字**
 {: .text-center }
 
 
