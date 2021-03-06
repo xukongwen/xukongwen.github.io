@@ -1,9 +1,32 @@
 ---
 layout: default
-title: 日志
+title: 临时
 nav_order: 4
 permalink: /docs/log
 ---
+
+# i3 install
+
+
+
+http://dotshare.it/
+
+# i3 config
+
+### Borders ###
+new_window pixel 4
+new_float pixel 4
+
+focus_follows_mouse no
+
+### Gaps ###
+set $default_gaps_inner 12
+set $default_gaps_outer 0
+gaps inner $default_gaps_inner
+gaps outer $default_gaps_outer
+
+
+
 
 
 2021.2.5
@@ -98,9 +121,3 @@ permalink: /docs/log
 
 ![](https://s3.ax1x.com/2021/01/30/yk7Mef.jpg)
 今天使用None-OS制作网站。。。
-
-
-
-
-
-
