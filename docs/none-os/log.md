@@ -5,6 +5,12 @@ nav_order: 4
 permalink: /docs/log
 ---
 
+
+# ubuntu autologin
+
+sudo vim /etc/gdm3/custom.conf
+
+
 # i3 install
 
 
