@@ -5,7 +5,8 @@ nav_order: 4
 permalink: /docs/log
 ---
 # terminal
-sudo apt install rxvt-unicode
+>sudo apt install rxvt-unicode
+
 https://linuxhint.com/best_7_linux_terminals/
 
 # login background
@@ -34,11 +35,11 @@ https://linuxhint.com/best_7_linux_terminals/
 
 # i3 wallpaper
 
-sudo vim ~/.profile
+>sudo vim ~/.profile
 
-feh --bg-fill ~/Pictures/Sample_picture.jpg
+>feh --bg-fill ~/Pictures/Sample_picture.jpg
 
-feh --randomize --bg-fill ~/Pictures/*
+>feh --randomize --bg-fill ~/Pictures/*
 
 http://dotshare.it/
 
