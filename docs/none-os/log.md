@@ -45,6 +45,15 @@ http://dotshare.it/
 
 # i3 config
 
+
+>sudo apt install i3status
+
+>sudp apt install rofi
+
+replace dmenu to rofi
+
+rofi -show drun -width 400 -lines 5
+
 ### Borders ###
 new_window pixel 4
 new_float pixel 4
