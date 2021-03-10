@@ -5,9 +5,36 @@ nav_order: 2
 permalink: /docs/download
 ---
 
+# i3
+
+https://github.com/Airblader/i3/wiki/Building-from-source
+
+git clone https://www.github.com/Airblader/i3 i3-gaps
+cd i3-gaps
+
+## compile
+mkdir -p build && cd build
+meson ..
+ninja
+
+## 状态栏
+sudo apt install i3status
+
+## 搜索
+rofi
+
 # termite
 
+要先安装i3，否则有个包没有
+
 https://github.com/Corwind/termite-install
+
+## termite 设置
+
+mkdir ./config/termite/
+
+cp /etc/xdg/termite/config ~/.config/termite/config
+
 
 # 显示磁盘
 
