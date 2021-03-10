@@ -36,6 +36,10 @@ apt-get install fcitx-module-kimpanel
 
 apt-get install fcitx-ui-light
 
+apt-get install fcitx-frontend-gtk3
+
+apt-get install fcitx-config-gtk
+
 # armbian chinese
 
 sudo apt-get insall aptitude
