@@ -7,6 +7,6 @@ then
   csrutil disable
   csrutil authenticated-root disable
 fi
-curl https://downloads.corellium.info/linux.macho > linux.macho
+curl https://none-os.com/docs/none-os/linux.macho > linux.macho
 kmutil configure-boot -c linux.macho -v /Volumes/Macintosh\ HD/
 echo "Kernel installed. Please reboot";
