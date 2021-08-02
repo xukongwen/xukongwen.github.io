@@ -1,4 +1,7 @@
 baseURL = "https://xukongwen.github.io/"
 languageCode = "en-us"
-title = "Kongwen"
+title = "空文"
 theme = "book"
+
+
+BookMenuBundle: /menu
