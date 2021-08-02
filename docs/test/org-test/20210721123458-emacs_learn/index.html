@@ -1,0 +1,485 @@
+<!doctype html><html lang=en dir=ltr>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=description content="emacs-learn
+ emacs learn  導出成網站hugo  https://gohugo.io/ https://eason0210.github.io/post/why-move-from-jekyll2hugo/
+  獲得幫助  進入說明 c-h i 查看某個命令的說明 c-h F 搜索某個相關詞組涉及到的命令 c-h a 功能查詢 c-h f 主要模式 c-h m 產看所有快捷鍵 c-h k
+  操作window    關閉此窗口外到其餘一切窗口 c-x 1
+  關閉當前窗口 c-x 0
+  切換到其他窗口 c-x o
+  垂直分割窗口 c-x 3
+    操作buffer    顯示其他buffer c-x b
+  關閉當前buffer c-x k">
+<meta name=theme-color content="#FFFFFF"><meta property="og:title" content>
+<meta property="og:description" content="emacs-learn
+ emacs learn  導出成網站hugo  https://gohugo.io/ https://eason0210.github.io/post/why-move-from-jekyll2hugo/
+  獲得幫助  進入說明 c-h i 查看某個命令的說明 c-h F 搜索某個相關詞組涉及到的命令 c-h a 功能查詢 c-h f 主要模式 c-h m 產看所有快捷鍵 c-h k
+  操作window    關閉此窗口外到其餘一切窗口 c-x 1
+  關閉當前窗口 c-x 0
+  切換到其他窗口 c-x o
+  垂直分割窗口 c-x 3
+    操作buffer    顯示其他buffer c-x b
+  關閉當前buffer c-x k">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://xukongwen.github.io/docs/test/org-test/20210721123458-emacs_learn/"><meta property="article:section" content="docs">
+<title>20210721123458 Emacs Learn | 空文</title>
+<link rel=manifest href=/manifest.json>
+<link rel=icon href=/favicon.png type=image/x-icon>
+<link rel=stylesheet href=/book.min.958cea7827621d6fbcb3acf091344c3e44e3d2a9428f9c3c38bb9eb37bf8c45d.css integrity="sha256-lYzqeCdiHW+8s6zwkTRMPkTj0qlCj5w8OLues3v4xF0=" crossorigin=anonymous>
+<script defer src=/flexsearch.min.js></script>
+<script defer src=/en.search.min.97162105afa54f8209b204cf4fea940fd2cbd34fadb24f6fab4295a65ca1cbd6.js integrity="sha256-lxYhBa+lT4IJsgTPT+qUD9LL00+tsk9vq0KVplyhy9Y=" crossorigin=anonymous></script>
+</head>
+<body dir=ltr>
+<input type=checkbox class="hidden toggle" id=menu-control>
+<input type=checkbox class="hidden toggle" id=toc-control>
+<main class="container flex">
+<aside class=book-menu>
+<div class=book-menu-content>
+<nav>
+<h2 class=book-brand>
+<a href=/><span>空文</span>
+</a>
+</h2>
+<div class=book-search>
+<input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/>
+<div class="book-search-spinner hidden"></div>
+<ul id=book-search-results></ul>
+</div>
+<ul>
+<li class=book-section-flat>
+<a href=https://xukongwen.github.io/docs/test/>标题</a>
+<ul>
+<li>
+<a href=https://xukongwen.github.io/docs/test/org-test/>Org Test</a>
+<ul>
+<li>
+<a href=https://xukongwen.github.io/docs/test/org-test/20210721123458-emacs_learn/ class=active>20210721123458 Emacs Learn</a>
+</li>
+</ul>
+</li>
+<li>
+<a href=https://xukongwen.github.io/docs/test/table-of-contents/>Table of Contents</a>
+<ul>
+<li>
+<a href=https://xukongwen.github.io/docs/test/table-of-contents/with-toc/>With ToC</a>
+</li>
+<li>
+<a href=https://xukongwen.github.io/docs/test/table-of-contents/without-toc/>Without ToC</a>
+</li>
+</ul>
+</li>
+<li>
+<input type=checkbox id=section-a24e08d1484d1feb7e029a4beae84936 class=toggle>
+<label for=section-a24e08d1484d1feb7e029a4beae84936 class="flex justify-between">
+<a role=button>Collapsed</a>
+</label>
+<ul>
+<li>
+<a href=https://xukongwen.github.io/docs/test/collapsed/3rd-level/>3rd Level</a>
+<ul>
+<li>
+<a href=https://xukongwen.github.io/docs/test/collapsed/3rd-level/4th-level/>4th Level</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<a href=/posts/>
+Blog
+</a>
+</li>
+</ul>
+</nav>
+<script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+</div>
+</aside>
+<div class=book-page>
+<header class=book-header>
+<div class="flex align-center justify-between">
+<label for=menu-control>
+<img src=/svg/menu.svg class=book-icon alt=Menu>
+</label>
+<strong>20210721123458 Emacs Learn</strong>
+<label for=toc-control>
+<img src=/svg/toc.svg class=book-icon alt="Table of Contents">
+</label>
+</div>
+<aside class="hidden clearfix">
+<nav id=TableOfContents>
+<ul>
+<li><a href=#headline-1>emacs learn</a>
+<ul>
+<li><a href=#headline-2>導出成網站hugo</a>
+</li>
+<li><a href=#headline-3>獲得幫助</a>
+</li>
+<li><a href=#headline-4>操作window</a>
+</li>
+<li><a href=#headline-5>操作buffer</a>
+</li>
+<li><a href=#headline-6>插入和顯示圖片</a>
+</li>
+<li><a href=#headline-7>設置快捷鍵</a>
+</li>
+<li><a href=#headline-8>自己的快捷鍵</a>
+</li>
+<li><a href=#headline-9>快速加入代碼塊</a>
+</li>
+<li><a href=#headline-10>中文字數統計</a>
+</li>
+<li><a href=#headline-11>類似fzf的快速搜索和統計</a>
+</li>
+<li><a href=#headline-12>在終端中啓動</a>
+</li>
+<li><a href=#headline-13>學習和嘗試一下magit</a>
+</li>
+<li><a href=#headline-14>Rime简体</a>
+</li>
+<li><a href=#headline-15>Grub分辨率和更换theme</a>
+</li>
+</ul>
+</li>
+<li><a href=#headline-16>roam learn</a>
+<ul>
+<li><a href=#headline-17>backlink</a>
+</li>
+<li><a href=#headline-18>顯示圖</a>
+</li>
+<li><a href=#headline-19>tag如何運用</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+</header>
+<article class=markdown><h1 class=title><p>emacs-learn</p>
+</h1>
+<div id=outline-container-headline-1 class=outline-2>
+<h2 id=headline-1>
+emacs learn
+</h2>
+<div id=outline-text-headline-1 class=outline-text-2>
+<div id=outline-container-headline-2 class=outline-3>
+<h3 id=headline-2>
+導出成網站hugo
+</h3>
+<div id=outline-text-headline-2 class=outline-text-3>
+<p><a href=https://gohugo.io/>https://gohugo.io/</a>
+<a href=https://eason0210.github.io/post/why-move-from-jekyll2hugo/>https://eason0210.github.io/post/why-move-from-jekyll2hugo/</a></p>
+</div>
+</div>
+<div id=outline-container-headline-3 class=outline-3>
+<h3 id=headline-3>
+獲得幫助
+</h3>
+<div id=outline-text-headline-3 class=outline-text-3>
+<p>進入說明 c-h i
+查看某個命令的說明 c-h F
+搜索某個相關詞組涉及到的命令 c-h a
+功能查詢 c-h f
+主要模式 c-h m
+產看所有快捷鍵 c-h k</p>
+</div>
+</div>
+<div id=outline-container-headline-4 class=outline-3>
+<h3 id=headline-4>
+操作window
+</h3>
+<div id=outline-text-headline-4 class=outline-text-3>
+<ul>
+<li>
+<p>關閉此窗口外到其餘一切窗口 c-x 1</p>
+</li>
+<li>
+<p>關閉當前窗口 c-x 0</p>
+</li>
+<li>
+<p>切換到其他窗口 c-x o</p>
+</li>
+<li>
+<p>垂直分割窗口 c-x 3</p>
+</li>
+</ul>
+</div>
+</div>
+<div id=outline-container-headline-5 class=outline-3>
+<h3 id=headline-5>
+操作buffer
+</h3>
+<div id=outline-text-headline-5 class=outline-text-3>
+<ul>
+<li>
+<p>顯示其他buffer c-x b</p>
+</li>
+<li>
+<p>關閉當前buffer c-x k</p>
+</li>
+</ul>
+</div>
+</div>
+<div id=outline-container-headline-6 class=outline-3>
+<h3 id=headline-6>
+插入和顯示圖片
+</h3>
+<div id=outline-text-headline-6 class=outline-text-3>
+<ul>
+<li>
+<p>插入用這個：“<img src=~/myimage.png alt=~/myimage.png title=~/myimage.png>”</p>
+</li>
+</ul>
+</div>
+</div>
+<div id=outline-container-headline-7 class=outline-3>
+<h3 id=headline-7>
+設置快捷鍵
+</h3>
+<div id=outline-text-headline-7 class=outline-text-3>
+<ul>
+<li>
+<p>最好最全到一個教學 <a href=https://www.masteringemacs.org/article/mastering-key-bindings-emacs>https://www.masteringemacs.org/article/mastering-key-bindings-emacs</a></p>
+</li>
+<li>
+<p>現在的一個感覺是用super建來搞事情，因爲這個建emacs完全預留了
+也就是c-c的替換，所謂到prefix？</p>
+</li>
+<li>
+<p>super 在emacs里是s，那麼一個例子：s-f 定義成了roam node find搜索，現在非常方便。</p>
+</li>
+</ul>
+</div>
+</div>
+<div id=outline-container-headline-8 class=outline-3>
+<h3 id=headline-8>
+自己的快捷鍵
+</h3>
+<div id=outline-text-headline-8 class=outline-text-3>
+<ul>
+<li>
+<p>undo c-/</p>
+</li>
+<li>
+<p>roam-node-find s-f</p>
+</li>
+<li>
+<p>切換到buffer s-b</p>
+</li>
+<li>
+<p>buffer內全部文字搜索 c-s</p>
+</li>
+<li>
+<p>全文字數統計 s-w</p>
+</li>
+<li>
+<p>創建id</p>
+</li>
+</ul>
+</div>
+</div>
+<div id=outline-container-headline-9 class=outline-3>
+<h3 id=headline-9>
+快速加入代碼塊
+</h3>
+<div id=outline-text-headline-9 class=outline-text-3>
+<div class="src src-text">
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text>&lt;s (TAB)</code></pre></div>
+</div>
+</div>
+</div>
+<div id=outline-container-headline-10 class=outline-3>
+<h3 id=headline-10>
+中文字數統計
+</h3>
+<div id=outline-text-headline-10 class=outline-text-3>
+<p>已經加入了，s-w，未來自己寫一個</p>
+</div>
+</div>
+<div id=outline-container-headline-11 class=outline-3>
+<h3 id=headline-11>
+類似fzf的快速搜索和統計
+</h3>
+<div id=outline-text-headline-11 class=outline-text-3>
+<p>現在用swiper來實現，需要未來驗證一下
+這個東西非常重要</p>
+</div>
+</div>
+<div id=outline-container-headline-12 class=outline-3>
+<h3 id=headline-12>
+在終端中啓動
+</h3>
+<div id=outline-text-headline-12 class=outline-text-3>
+<p>emacs -nw</p>
+</div>
+</div>
+<div id=outline-container-headline-13 class=outline-3>
+<h3 id=headline-13>
+學習和嘗試一下magit
+</h3>
+<div id=outline-text-headline-13 class=outline-text-3>
+<p><a href=https://magit.vc/>https://magit.vc/</a></p>
+</div>
+</div>
+<div id=outline-container-headline-14 class=outline-3>
+<h3 id=headline-14>
+Rime简体
+</h3>
+<div id=outline-text-headline-14 class=outline-text-3>
+<p>首先最重要的是知道设置文件在哪里
+现在用的是fcitx5，设置路径在这里：
+~/.local/share/fcitx5/rime/</p>
+<p>
+然后创建文件luna_pinyin.custom.yaml</p>
+<p>
+内容：</p>
+<div class="src src-text">
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text># luna_pinyin.custom.yaml
+
+patch:
+  switches:                   # 注意缩进
+    - name: ascii_mode
+      reset: 0                # reset 0 的作用是当从其他输入法切换到本输入法重设为指定状态
+      states: [ 中文, 西文 ]   # 选择输入方案后通常需要立即输入中文，故重设 ascii_mode = 0
+    - name: full_shape
+      states: [ 半角, 全角 ]   # 而全／半角则可沿用之前方案的用法。
+    - name: simplification
+      reset: 1                # 增加这一行：默认启用「繁→簡」转换。
+      states: [ 漢字, 汉字 ]</code></pre></div>
+</div>
+<p>
+最后在init.el里面把rime的设置目录制定到同一个目录就好了
+emacs-rime和系统的rime是读取同一个设置文件</p>
+</div>
+</div>
+<div id=outline-container-headline-15 class=outline-3>
+<h3 id=headline-15>
+Grub分辨率和更换theme
+</h3>
+<div id=outline-text-headline-15 class=outline-text-3>
+<div class="src src-text">
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text>sudo vim /etc/default/grub</code></pre></div>
+</div>
+<p>要知道支持的分辨率在grub目录时按c
+然后输入
+videoinfo
+那么就会列出可以的分辨率，选一个最大的就好了
+然后修改这里</p>
+<div class="src src-text">
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text>GRUB_GFXMODE=2560x1600x32,auto</code></pre></div>
+</div>
+<p>修改之后一定运行下面这个</p>
+<div class="src src-text">
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-text data-lang=text>grub-mkconfig -o /boot/grub/grub.cfg</code></pre></div>
+</div>
+<p>theme的话下载一个就行，一般可以自动安装
+下面这个是辐射的theme
+<a href=https://github.com/shvchk/fallout-grub-theme>https://github.com/shvchk/fallout-grub-theme</a></p>
+</div>
+</div>
+</div>
+</div>
+<div id=outline-container-headline-16 class=outline-2>
+<h2 id=headline-16>
+roam learn
+</h2>
+<div id=outline-text-headline-16 class=outline-text-2>
+<div id=outline-container-headline-17 class=outline-3>
+<h3 id=headline-17>
+backlink
+</h3>
+</div>
+<div id=outline-container-headline-18 class=outline-3>
+<h3 id=headline-18>
+顯示圖
+</h3>
+<div id=outline-text-headline-18 class=outline-text-3>
+<p><a href=https://stackoverflow.com/questions/17621495/emacs-org-display-inline-images>https://stackoverflow.com/questions/17621495/emacs-org-display-inline-images</a></p>
+<p>
+org-display-inline-images</p>
+<p>
+<img src=~/Pictures/emacs-t1.png alt=~/Pictures/emacs-t1.png title=~/Pictures/emacs-t1.png></p>
+</div>
+</div>
+<div id=outline-container-headline-19 class=outline-3>
+<h3 id=headline-19>
+tag如何運用
+</h3>
+<div id=outline-text-headline-19 class=outline-text-3>
+<p>添加tag
+org-roam-tag-add
+大概知道怎麼用了，上面的命令是file級別的tag
+然後node-find的時候右面會有tag顯示，蠻好的
+然後在搜索的時候，可直接所有tag，那麼相同tag的內容就會都出現
+未來網站必須有直接點擊tag的功能才行</p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<footer class=book-footer>
+<div class="flex flex-wrap justify-between">
+</div>
+<script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
+</footer>
+<div class=book-comments>
+</div>
+<label for=menu-control class="hidden book-menu-overlay"></label>
+</div>
+<aside class=book-toc>
+<div class=book-toc-content>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#headline-1>emacs learn</a>
+<ul>
+<li><a href=#headline-2>導出成網站hugo</a>
+</li>
+<li><a href=#headline-3>獲得幫助</a>
+</li>
+<li><a href=#headline-4>操作window</a>
+</li>
+<li><a href=#headline-5>操作buffer</a>
+</li>
+<li><a href=#headline-6>插入和顯示圖片</a>
+</li>
+<li><a href=#headline-7>設置快捷鍵</a>
+</li>
+<li><a href=#headline-8>自己的快捷鍵</a>
+</li>
+<li><a href=#headline-9>快速加入代碼塊</a>
+</li>
+<li><a href=#headline-10>中文字數統計</a>
+</li>
+<li><a href=#headline-11>類似fzf的快速搜索和統計</a>
+</li>
+<li><a href=#headline-12>在終端中啓動</a>
+</li>
+<li><a href=#headline-13>學習和嘗試一下magit</a>
+</li>
+<li><a href=#headline-14>Rime简体</a>
+</li>
+<li><a href=#headline-15>Grub分辨率和更换theme</a>
+</li>
+</ul>
+</li>
+<li><a href=#headline-16>roam learn</a>
+<ul>
+<li><a href=#headline-17>backlink</a>
+</li>
+<li><a href=#headline-18>顯示圖</a>
+</li>
+<li><a href=#headline-19>tag如何運用</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</aside>
+</main>
+</body>
+</html>
