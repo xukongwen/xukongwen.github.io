@@ -8,4 +8,4 @@ type: docs
 ## test pic
 
 
-![实验图片](/content/pic/logo1.png)
+![实验图片](/assets/images/logo1.png)
