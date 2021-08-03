@@ -8,4 +8,4 @@ type: docs
 ## test pic
 
 
-![Example image](/test/pic/image.png)
+![Example image](/content/docs/test/pic/image.png)
