@@ -8,4 +8,4 @@ type: docs
 ## test pic aaa
 
 
-![实验图片](/static/logo1.png)
+![实验图片](/pic/logo1.png)
