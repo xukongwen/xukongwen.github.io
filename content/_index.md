@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: 空文
 type: docs
 ---
 
@@ -8,4 +8,4 @@ type: docs
 ## test pic
 
 
-![Example image](/content/pic/logo1.png)
+![实验图片](/content/pic/logo1.png)
