@@ -5,7 +5,7 @@ type: docs
 
 # 这个应该是首页
 
-## test pic
+## test pic aaa
 
 
-![实验图片](/assets/images/logo1.png)
+![实验图片](/static/logo1.png)
