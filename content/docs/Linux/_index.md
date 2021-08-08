@@ -1,5 +1,6 @@
 ---
 weight: 2
+bookCollapseSection: true
 ---
 
 # 临时测试
