@@ -1,4 +1,6 @@
 ---
+weight: 1
 bookCollapseSection: true
-weight: 20
 ---
+
+# 佛家
